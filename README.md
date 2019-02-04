@@ -1,6 +1,6 @@
 # goslackbot
 
-
+Real-time slackbot for to encourage continuous challenge by compliment
 
 ## Useage
 ```
@@ -17,7 +17,7 @@ cp config.yaml.sample config.yaml
 
 ## Creator & Licenser
 
-(0Delta)[https://github.com/0Delta]
+[0Delta](https://github.com/0Delta)
 
 ## License
 
